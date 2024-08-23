@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['917720983954']
-global.OwnerNumber = ['917720983954']
+global.Owner = ['919959026648']
+global.OwnerNumber = ['919959026648']
 global.ownertag = ['917720983954']
 global.BotName = "Mai Sakurajima"
 global.packname = "Mai bot"
 global.author = "By Mai senpai"
-global.OwnerName = "Atharv"
+global.OwnerName = "md saif"
 global.BotSourceCode = "https://geeksarchon.com"
 global.SupportGroupLink = "https://geeksarchon.com"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
 global.location = "Maharashtra, India"
